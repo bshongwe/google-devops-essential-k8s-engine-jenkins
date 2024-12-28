@@ -1,3 +1,9 @@
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/google-devops-essential-k8s-engine-jenkins)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/google-devops-essential-k8s-engine-jenkins)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/google-devops-essential-k8s-engine-jenkins)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/google-devops-essential-k8s-engine-jenkins)
+![GitHub License](https://img.shields.io/github/license/bshongwe/google-devops-essential-k8s-engine-jenkins)
+
 # Continuous Delivery with Jenkins in Kubernetes Engine
 
 Overview
